@@ -1,0 +1,25 @@
+[debug] [2023-04-30T09:16:08.149Z] ----------------------------------------------------------------------
+[debug] [2023-04-30T09:16:08.151Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-04-30T09:16:08.151Z] CLI Version:   11.29.1
+[debug] [2023-04-30T09:16:08.152Z] Platform:      win32
+[debug] [2023-04-30T09:16:08.152Z] Node Version:  v18.12.1
+[debug] [2023-04-30T09:16:08.152Z] Time:          Sun Apr 30 2023 14:46:08 GMT+0530 (India Standard Time)
+[debug] [2023-04-30T09:16:08.153Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-30T09:16:08.218Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-30T09:16:08.219Z] > authorizing via signed-in user (mohitkir0029@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ASUS\OneDrive\Desktop\catalize2
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
